@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/seasons"
+        android:icon="@drawable/ic_baseline_brightness_6_24"
+        android:id="@+id/season_roll"/>
+
+    <item
+        android:title="Информация"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:id="@+id/about" />
+</menu>

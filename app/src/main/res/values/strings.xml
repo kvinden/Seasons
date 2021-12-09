@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seasons</string>
+    <string name="roll">СТАРТ</string>
+    <string name="developers">Разработчики:</string>
+    <string name="seasons">Времена года</string>
+    <string name="about">Информация</string>
+    <string name="our_web_site">Наш сайт</string>
+</resources>
